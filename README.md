@@ -1,5 +1,6 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Shweta Tiwari</h1>
-<h3 align="center">A passionate web developer .</h3>
+<h3 align="center"><a href="https://www.instagram.com/_00shweta00_/">Instagram</a>
+  <a href ="www.linkedin.com/in/shweta-tiwari-8b498a274">LinkedIn</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwet-iwari&label=Profile%20views&color=0e75b6&style=flat" alt="shwet-iwari" /> </p>
 
