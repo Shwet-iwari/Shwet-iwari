@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwet-iwari" alt="shwet-iwari" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Generator](https://github.com/Shwet-iwari/CollageProjects)
+- 🔭 I’m currently working on [Resume Generator](https://github.com/Shwet-iwari/CollageProjects/PHP)
 
 - 📫 How to reach me **shwetiwari1505@gmail.com**
 
