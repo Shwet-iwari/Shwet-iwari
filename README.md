@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwet-iwari" alt="shwet-iwari" /></a> </p>
 
-- 🔭 I’m currently working on [Quiz Application](https://github.com/Shwet-iwari/CollageProjects)
-- 🔭 Project Done [Resume Generator](https://github.com/Shwet-iwari/CollageProjects)
+- 🔭 I’m currently working on [Kids Hub- A fully kids Friendly Web development project](https://github.com/Shwet-iwari/CollageProjects)
+- 🔭 Project Done [Resume Generator](https://github.com/Shwet-iwari/CollageProjects/PHP)
+- 🔭 Project Done [Quiz Application](https://github.com/Shwet-iwari/CollageProjects/QUIZ)
 
 - 📫 How to reach me **shwetiwari1505@gmail.com**
 
